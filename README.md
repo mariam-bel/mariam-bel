@@ -7,7 +7,7 @@ Apasionada por la programación, la creación de páginas web y el manejo de bas
 
 ## 🚀 Tecnologías y herramientas
 
-🖥️ Java · 🐍 Python · 🌐 JavaScript (un poco) · 🧠 PL/SQL  
+🖥️ Java · 🐍 Python · 🌐 JavaScript/TypeScript · 🧠 PL/SQL  
 💻 Git & GitHub · 🗄️ SQL · 🧩 VS Code · 🛠️ Figma
 
 ---
